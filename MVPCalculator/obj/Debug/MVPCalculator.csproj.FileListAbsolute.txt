@@ -1,0 +1,9 @@
+c:\users\patryk\documents\visual studio 2013\Projects\MVPCalculator\MVPCalculator\bin\Debug\MVPCalculator.exe.config
+c:\users\patryk\documents\visual studio 2013\Projects\MVPCalculator\MVPCalculator\obj\Debug\MVPCalculator.csprojResolveAssemblyReference.cache
+c:\users\patryk\documents\visual studio 2013\Projects\MVPCalculator\MVPCalculator\obj\Debug\MVPCalculator.Form1.resources
+c:\users\patryk\documents\visual studio 2013\Projects\MVPCalculator\MVPCalculator\obj\Debug\MVPCalculator.Properties.Resources.resources
+c:\users\patryk\documents\visual studio 2013\Projects\MVPCalculator\MVPCalculator\obj\Debug\MVPCalculator.csproj.GenerateResource.Cache
+c:\users\patryk\documents\visual studio 2013\Projects\MVPCalculator\MVPCalculator\bin\Debug\MVPCalculator.exe
+c:\users\patryk\documents\visual studio 2013\Projects\MVPCalculator\MVPCalculator\bin\Debug\MVPCalculator.pdb
+c:\users\patryk\documents\visual studio 2013\Projects\MVPCalculator\MVPCalculator\obj\Debug\MVPCalculator.exe
+c:\users\patryk\documents\visual studio 2013\Projects\MVPCalculator\MVPCalculator\obj\Debug\MVPCalculator.pdb
